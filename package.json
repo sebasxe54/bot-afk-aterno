@@ -1,9 +1,11 @@
 {
-  "name": "bot-afk",
+  "name": "bot-afk-aternos",
   "version": "1.0.0",
   "dependencies": {
-    "mineflayer": "^4.23.0",
-    "express": "^4.19.2"
+    "mineflayer": "^4.24.0",
+    "express": "^4.21.0"
   },
-  "engines": { "node": ">=20.0.0" }
+  "engines": {
+    "node": "20.x"
+  }
 }
