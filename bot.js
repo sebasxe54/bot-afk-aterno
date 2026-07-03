@@ -4,7 +4,7 @@ const app = express();
 
 // CONFIGURACIÓN YA COMPLETA CON TUS DATOS
 const CONFIG = {
-  host: 'sebas54fsff-kfu1.aternos.me',
+  host: 'sebas54fsff-kfu1.aternos.me:56465',
   port: 56465,
   username: 'BotAFK1',
   version: false // Detecta versión automáticamente
