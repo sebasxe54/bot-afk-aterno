@@ -1,0 +1,9 @@
+{
+  "name": "bot-afk",
+  "version": "1.0.0",
+  "dependencies": {
+    "mineflayer": "^4.23.0",
+    "express": "^4.19.2"
+  },
+  "engines": { "node": ">=20.0.0" }
+}
